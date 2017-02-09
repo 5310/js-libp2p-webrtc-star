@@ -67,7 +67,7 @@
     "multiaddr": "^2.2.1",
     "once": "^1.4.0",
     "peer-id": "~0.8.2",
-    "peer-info": "~0.8.3",
+    "peer-info": "0.8.2",
     "pull-stream": "^3.5.0",
     "simple-peer": "^6.2.2",
     "socket.io": "^1.7.2",
