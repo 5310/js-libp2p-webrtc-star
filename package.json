@@ -61,7 +61,7 @@
     "webrtcsupport": "^2.2.0",
     "debug": "^2.6.3",
     "detect-node": "^2.0.3",
-    "hapi": "^16.1.0",
+    "hapi": "^18.1.0",
     "interface-connection": "~0.3.2",
     "mafmt": "^2.1.8",
     "minimist": "^1.2.0",
@@ -71,7 +71,7 @@
     "peer-info": "~0.9.0",
     "pull-stream": "^3.5.0",
     "simple-peer": "^7.0.0",
-    "socket.io": "^1.7.3",
+    "socket.io": "^4.8.4",
     "socket.io-client": "^1.7.3",
     "stream-to-pull-stream": "^1.7.2",
     "wrtc": "0.0.61"
